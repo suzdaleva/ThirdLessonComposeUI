@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThirdLessonComposeUI</string>
+    <string name="title">Войдите с Яндекс ID</string>
+    <string name="enter_id">Введите ваш ID</string>
+    <string name="enter_hint">Телефон или почта</string>
+    <string name="button_helper_text">Не помню</string>
+    <string name="button_enter_text">Войти</string>
+    <string name="button_create_id_text">Создать ID</string>
+    <string name="enter_with">Войти с помощью</string>
+    <string name="yandex_id_is_key">Яндекс ID - ключ от всех сервисов</string>
+    <string name="discover_more">Узнать больше</string>
+    <string name="help">Помощь</string>
+    <string name="country_code">Ru</string>
+    <string name="company_info">2001-2021.Яндекс</string>
+
+</resources>
